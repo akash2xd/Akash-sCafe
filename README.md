@@ -1,131 +1,122 @@
-# Akash-sCafe
-☕ Akash's Cafe
+# ☕ Akash's Cafe
 
-A modern, responsive café website built to deliver a seamless digital experience for customers — featuring menu browsing, ordering interface, and aesthetic UI design.
+A modern, responsive café website built to deliver a seamless digital
+experience for customers --- featuring menu browsing, ordering
+interface, and aesthetic UI design.
 
-📌 Overview
+------------------------------------------------------------------------
 
-Akash's Cafe is a full-stack (or frontend-focused) web application designed to simulate or operate a real-world café system. It emphasizes:
+## 📌 Overview
 
-Clean UI/UX design
-Smooth user interaction
-Scalable architecture
-Real-world usability
+**Akash's Cafe** is a web application designed to simulate or operate a
+real-world café system with clean UI/UX and scalable architecture.
 
-This project demonstrates strong frontend engineering practices along with backend integration (if applicable).
+------------------------------------------------------------------------
 
-✨ Features
-🧑‍💻 User Features
-🍽️ Browse café menu with categories
-🛒 Add items to cart
-💳 Checkout / Order interface
-📱 Fully responsive design
-⚡ Smooth animations & transitions
-⚙️ System Features
-Modular component architecture
-State management (if used: Redux / Context API)
-API integration (if backend exists)
-Scalable folder structure
-Optimized performance
-🛠️ Tech Stack
-Frontend
-React.js / Next.js
-Tailwind CSS / CSS3
-Framer Motion (animations)
-Backend (if applicable)
-Node.js
-Express.js
-MongoDB
-Tools & DevOps
-Git & GitHub (version control)
-REST APIs
-Environment configuration
-📂 Project Structure
-Akash-sCafe/
-│
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # App pages / routes
-│   ├── assets/          # Images, icons, etc.
-│   ├── styles/          # Global styles
-│   ├── utils/           # Helper functions
-│   └── services/        # API calls
-│
-├── package.json
-├── README.md
-└── .env
-⚙️ Installation & Setup
-1️⃣ Clone the repository
+## ✨ Features
+
+### 🧑‍💻 User Features
+
+-   Browse café menu with categories\
+-   Add items to cart\
+-   Checkout / Order interface\
+-   Fully responsive design\
+-   Smooth animations & transitions
+
+### ⚙️ System Features
+
+-   Modular component architecture\
+-   State management\
+-   API integration\
+-   Scalable folder structure\
+-   Optimized performance
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+-   React.js / Next.js\
+-   Tailwind CSS\
+-   Framer Motion
+
+### Backend *(if applicable)*
+
+-   Node.js\
+-   Express.js\
+-   MongoDB
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+    Akash-sCafe/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── assets/
+    │   ├── styles/
+    │   ├── utils/
+    │   └── services/
+    ├── package.json
+    ├── README.md
+    └── .env
+
+------------------------------------------------------------------------
+
+## ⚙️ Installation & Setup
+
+``` bash
 git clone https://github.com/akash2xd/Akash-sCafe.git
 cd Akash-sCafe
-2️⃣ Install dependencies
 npm install
-3️⃣ Run the development server
 npm run dev
-4️⃣ Build for production
-npm run build
-npm start
-🔐 Environment Variables
+```
 
-Create a .env file in the root directory:
+------------------------------------------------------------------------
 
-PORT=3000
-MONGO_URI=your_database_url
-API_KEY=your_api_key
-📸 Screenshots
+## 🔐 Environment Variables
 
+Create a `.env` file:
 
-🚀 Deployment
+    PORT=3000
+    MONGO_URI=your_database_url
+    API_KEY=your_api_key
 
-You can deploy this project on:
+------------------------------------------------------------------------
 
-Vercel (recommended for Next.js)
-Netlify
-Render
-AWS / DigitalOcean
-🧠 Learning Outcomes
+## 🚀 Deployment
 
-This project demonstrates:
+-   Vercel\
+-   Netlify\
+-   Render
 
-Component-based architecture
-State management
-Responsive UI design
-API handling
-Clean code practices
-🤝 Contributing
+------------------------------------------------------------------------
 
-Contributions are welcome!
+## 🤝 Contributing
 
-Fork the repo
-Create a new branch
-Commit your changes
-Push to your branch
-Open a Pull Request
-🐛 Issues
+1.  Fork the repo\
+2.  Create a branch\
+3.  Commit changes\
+4.  Push and open PR
 
-If you find a bug, please open an issue:
+------------------------------------------------------------------------
 
-👉 https://github.com/akash2xd/Akash-sCafe/issues
+## 📄 License
 
-📄 License
+MIT License
 
-This project is licensed under the MIT License.
+------------------------------------------------------------------------
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Akash Gupta
+Akash Gupta\
+https://github.com/akash2xd
 
-GitHub: https://github.com/akash2xd
-⭐ Support
+------------------------------------------------------------------------
 
-If you like this project:
+## ⭐ Support
 
-⭐ Star the repo
-🍴 Fork it
-📢 Share it
-🔥 Future Enhancements
-Online payment integration
-Admin dashboard
-Real-time order tracking
-AI-based recommendation system
+Star ⭐ the repo if you like it!
